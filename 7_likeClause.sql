@@ -1,0 +1,3 @@
+--  LIKE CLAUSE
+--      1. %
+--      2. _ (underscore)
